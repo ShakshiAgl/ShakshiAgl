@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shakshi Agrawal</h1>
 <h3 align="center">A passionate Coder </h3>
 
-- 🌱 I’m currently learning **App development and full stack development**
+- 🌱 I’m currently learning **Full stack development**
 
-- 💬 Ask me about **JAVA, JavaScript, SQL**
+- 💬 Ask me about **JAVA, JavaScript,React SQL**
 
 - 📫 How to reach me **agrawalsakshi836@gmail.com**
-
-- ⚡ Fun fact **Coding is fun and its a fact**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
