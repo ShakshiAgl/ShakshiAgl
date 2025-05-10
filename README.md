@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Shakshi Agrawal</h1>
 <h3 align="center">A passionate Coder </h3>
 
-- 🌱 I’m currently learning **Full stack development**
+- 🌱 I’m currently practicing **Full stack software development**
 
-- 💬 Ask me about **JAVA, JavaScript,React SQL**
+- 💬 Ask me about **JAVA, JavaScript,React, SQL**
 
 - 📫 How to reach me **agrawalsakshi836@gmail.com**
 
