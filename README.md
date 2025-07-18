@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently practicing **Full stack software development**
 
-- 💬 Ask me about **JAVA, JavaScript,React, SQL**
+- 💬 Ask me about **MERN stack and JAVA**
 
 - 📫 How to reach me **agrawalsakshi836@gmail.com**
 
